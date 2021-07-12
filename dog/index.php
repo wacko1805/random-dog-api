@@ -15,7 +15,7 @@ include '../status.php';
 //get facts
 
 $fact_raw = file("facts.txt");
-$image_raw = file("image.php");
+$image_raw = file("image.txt");
 
 //Shuffle Facts
 
